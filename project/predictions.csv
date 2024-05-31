@@ -1,0 +1,5 @@
+Unnamed: 0,Date,Flight_Time,Aircraft,Origin_Airport,flight,Aircraft_Model,Flight_Status,time_arrival,Destination_Aeroport,Prediction
+200.0,"Friday, May 31",2:40 AM,Tunisair,"Cairo International Airport, Egypt",TU814,32N,Scheduled,Scheduled,Tunis Carthage International Airport,-4.026060355357404
+201.0,"Friday, May 31",2:50 AM,Nouvelair Tunisie,"Casablanca Mohammed V International Airport, Morocco",BJ171,320,Scheduled,Scheduled,Tunis Carthage International Airport,-4.026060355357404
+,"Saturday, Jun 01",8:40 AM,Mandarin Airlines,"Taipei Songshan Airport, Taiwan",AE391,AT7,Scheduled,Scheduled,Taitung Airport,1.0658090424080957
+,"Saturday, Jun 01",10:40 AM,UNI Air,"Taipei Songshan Airport, Taiwan",B78721,AT7,Scheduled,Scheduled,Taitung Airport,-3.9361734669911526
